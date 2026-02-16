@@ -14,8 +14,8 @@ media_folder: "source/images/uploads"
 # public_folder: "images/uploads"
 relative_path: true
 
-site_url: https://shop.mixhub.my.id/
-display_url: https://shop.mixhub.my.id/
+# site_url: https://shop.mixhub.my.id/
+# display_url: https://shop.mixhub.my.id/
 
 #logo:
 #  src: /images/logo.png
