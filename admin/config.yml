@@ -11,18 +11,18 @@ backend:
 
 publish_mode: editorial_workflow
 media_folder: "source/images/uploads"
-public_folder: "/images/uploads"
+# public_folder: "images/uploads"
+relative_path: true
 
 site_url: https://shop.mixhub.my.id/
 display_url: https://shop.mixhub.my.id/
 
 logo:
-  src: https://shop.mixhub.my.id/images/logo.svg
+  src: https://shop.mixhub.my.id/images/logo.png
   show_in_header: true
 
 # This also works, but it's deprecated. Same as logo.src
-logo_url: https://shop.mixhub.my.id/images/logo.svg
-
+logo_url: https://shop.mixhub.my.id/images/logo.png
 
 locale: 'zh-Hant'
 
@@ -37,7 +37,6 @@ collections :
       - { label: "發佈日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss" }
       - { label: "更新日期", name: "updated", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", required: false }
       - { label: "標籤", name: "tags", widget: "list", required: false }
-      - { label: "分類", name: "categories", widget: "list", required: false }
       - { label: "封面圖", name: "thumbnail", widget: "image", required: false }
-      - { label: "描述", name: "description", widget: "string", required: false }
+      - { label: "描述", name: "description", widget: "text", required: false }
       - { label: "內文", name: "body", widget: "markdown", required: false }
