@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+
+# 告訴爬蟲你的地圖在哪
+Sitemap: https://shop.mixhub.my.id/sitemap.xml
