@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shop.mixhub.my.id/categories/index.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/tags/index.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shop.mixhub.my.id/posts/37794/</loc>
     
     <lastmod>2026-03-10</lastmod>
@@ -157,20 +175,6 @@
   </url>
   
   <url>
-    <loc>https://shop.mixhub.my.id/tags/%E9%A6%99%E6%B0%9B/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shop.mixhub.my.id/tags/%E8%AD%B7%E6%89%8B%E9%9C%9C/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://shop.mixhub.my.id/tags/%E5%A6%9D%E5%89%8D%E4%B9%B3/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,6 +188,76 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://shop.mixhub.my.id/tags/%E8%AD%B7%E6%89%8B%E9%9C%9C/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/tags/%E9%A6%99%E6%B0%9B/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/KISSME/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/LuLuLun/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/uno/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/Eisai/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/CANMAKE/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/OHANA-MAHAALO/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/Viking-Revolution/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shop.mixhub.my.id/categories/%E6%9B%BC%E7%A7%80%E9%9B%B7%E6%95%A6/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
