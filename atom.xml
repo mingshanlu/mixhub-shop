@@ -17,8 +17,8 @@
       <name>MZ Select</name>
     </author>
     <category term="Melano CC" scheme="https://shop.mixhub.my.id/categories/Melano-CC/"/>
-    <category term="保濕" scheme="https://shop.mixhub.my.id/tags/%E4%BF%9D%E6%BF%95/"/>
     <category term="男生" scheme="https://shop.mixhub.my.id/tags/%E7%94%B7%E7%94%9F/"/>
+    <category term="保濕" scheme="https://shop.mixhub.my.id/tags/%E4%BF%9D%E6%BF%95/"/>
     <category term="抗痘" scheme="https://shop.mixhub.my.id/tags/%E6%8A%97%E7%97%98/"/>
     <category term="美白" scheme="https://shop.mixhub.my.id/tags/%E7%BE%8E%E7%99%BD/"/>
     <id>https://shop.mixhub.my.id/posts/96e331a8/</id>
@@ -177,9 +177,9 @@
       <name>MZ Select</name>
     </author>
     <category term="uno" scheme="https://shop.mixhub.my.id/categories/uno/"/>
-    <category term="遮瑕" scheme="https://shop.mixhub.my.id/tags/%E9%81%AE%E7%91%95/"/>
     <category term="BB霜" scheme="https://shop.mixhub.my.id/tags/BB%E9%9C%9C/"/>
     <category term="防曬" scheme="https://shop.mixhub.my.id/tags/%E9%98%B2%E6%9B%AC/"/>
+    <category term="遮瑕" scheme="https://shop.mixhub.my.id/tags/%E9%81%AE%E7%91%95/"/>
     <category term="男生" scheme="https://shop.mixhub.my.id/tags/%E7%94%B7%E7%94%9F/"/>
     <id>https://shop.mixhub.my.id/posts/61149/</id>
     <link href="https://shop.mixhub.my.id/posts/61149/"/>
@@ -195,9 +195,9 @@
       <name>MZ Select</name>
     </author>
     <category term="KISSME" scheme="https://shop.mixhub.my.id/categories/KISSME/"/>
+    <category term="遮瑕" scheme="https://shop.mixhub.my.id/tags/%E9%81%AE%E7%91%95/"/>
     <category term="粉底" scheme="https://shop.mixhub.my.id/tags/%E7%B2%89%E5%BA%95/"/>
     <category term="粉餅" scheme="https://shop.mixhub.my.id/tags/%E7%B2%89%E9%A4%85/"/>
-    <category term="遮瑕" scheme="https://shop.mixhub.my.id/tags/%E9%81%AE%E7%91%95/"/>
     <id>https://shop.mixhub.my.id/posts/43190/</id>
     <link href="https://shop.mixhub.my.id/posts/43190/"/>
     <published>2026-03-01T17:11:00.000Z</published>
@@ -230,10 +230,10 @@
       <name>MZ Select</name>
     </author>
     <category term="KISSME" scheme="https://shop.mixhub.my.id/categories/KISSME/"/>
-    <category term="粉底" scheme="https://shop.mixhub.my.id/tags/%E7%B2%89%E5%BA%95/"/>
-    <category term="遮瑕" scheme="https://shop.mixhub.my.id/tags/%E9%81%AE%E7%91%95/"/>
     <category term="BB霜" scheme="https://shop.mixhub.my.id/tags/BB%E9%9C%9C/"/>
     <category term="防曬" scheme="https://shop.mixhub.my.id/tags/%E9%98%B2%E6%9B%AC/"/>
+    <category term="遮瑕" scheme="https://shop.mixhub.my.id/tags/%E9%81%AE%E7%91%95/"/>
+    <category term="粉底" scheme="https://shop.mixhub.my.id/tags/%E7%B2%89%E5%BA%95/"/>
     <id>https://shop.mixhub.my.id/posts/55864/</id>
     <link href="https://shop.mixhub.my.id/posts/55864/"/>
     <published>2026-02-19T16:57:00.000Z</published>
